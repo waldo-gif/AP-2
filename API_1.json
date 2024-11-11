@@ -1,0 +1,13 @@
+{
+"OrderID": 123456,
+"Adress": "junin 300" ,
+"Status": "Ready" ,
+"Articles" [
+ {
+    "name" : "Carne" ,
+    "Prince" : 5000, 
+    "Quantity": 2,
+    "Dangerous" : false
+}
+]
+}
